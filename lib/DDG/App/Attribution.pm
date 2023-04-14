@@ -30,6 +30,10 @@ sub BUILD {
 				}
 			} else {
 				print "\nNo attributions for ".$_."\n\n";
+				print "\nAdding another Jimbeaux abc attribution vuln for".$_."\n\n";
+				print "\nAdding another Jimbeaux 808 bass attribution vuln for".$_."\n\n";
+				print "\nAdding another Jimbeaux def attribution vuln for".$_."\n\n";
+				print "\nAdding another Jimbeaux 666 bass attribution vuln for".$_."\n\n";
 			}
 		}
 	}
